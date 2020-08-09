@@ -12,4 +12,4 @@ A smart Face Shield  to Prevent Covid 19, Don't forget to wear mask
 > Suggest changes in code via PR
 
 ![picture alt](img.jpg "Actual Covid Sarthi Prototype, Wear Mask too in addition to the shield")
-![picture alt](img1.jpg "Schementics")
+![picture alt](img1.png "Schementics")

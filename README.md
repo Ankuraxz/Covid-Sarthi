@@ -8,6 +8,7 @@ A smart Face Shield  to Prevent Covid 19, Don't forget to wear mask
 5. Buzzer or Led
 6. Resistors, Wires etc
 7. Face Shield and googles for placement of circuit
+8. Power device like Power Bank for Arduino 
 > Adjust code based on your components, raise issue if help needed (A little googling will do though)
 > Suggest changes in code via PR
 

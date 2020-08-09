@@ -17,3 +17,10 @@ A smart Face Shield  to Prevent Covid 19, Don't forget to wear mask
 
 ## SCHEMATICS
 ![picture alt](img1.png "Schementics")
+
+## Feature Extension
+1. Adding more Body param sensors like B.P., Heart rate etc
+2. Collectig data in db
+3. Using thinner display, preferabely embedded in glasses
+4. Smart Mask Extension
+5. Using Rpi instead of arduino, to introduce features like Google Assistant in the display itself, with a speaker and earphone

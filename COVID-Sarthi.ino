@@ -2,7 +2,7 @@
  // permanently LOW pins: 12
 #include <LiquidCrystal.h> // includes the LiquidCrystal Library 
 #include <DHT.h>
-#define DHTPIN 52
+#define DHTPIN 13 //Digital
 #define DHTTYPE DHT11
 DHT dht(DHTPIN,DHTTYPE);
 

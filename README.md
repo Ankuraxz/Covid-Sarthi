@@ -11,5 +11,8 @@ A smart Face Shield  to Prevent Covid 19, Don't forget to wear mask
 > Adjust code based on your components, raise issue if help needed (A little googling will do though)
 > Suggest changes in code via PR
 
+## PROTOTYPE- COVID Sarthi
 ![picture alt](img.jpg "Actual Covid Sarthi Prototype, Wear Mask too in addition to the shield")
+
+## SCHEMATICS
 ![picture alt](img1.png "Schementics")
